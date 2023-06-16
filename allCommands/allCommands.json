@@ -1,0 +1,19 @@
+{
+    "allCommands": [{
+        "name": "hello", "value": "_A Fun Command_", "inline": true
+    },{
+        "name": "hii", "value": "_A Fun Command_", "inline": true
+    },{
+        "name": "heya", "value": "_A Fun Command_", "inline": true
+    },{
+        "name": "bot, say hii", "value": "__Try at your own risk__"
+    },{
+        "name": "bot, say hii to", "value": "__Try at your own risk__"
+    },{
+        "name": "bot, say hii to { name or tag }", "value": "_A Fun Command_"
+    },{
+        "name": "@Kavya's Bot", "value": "_help section for this bot_"
+    },{
+        "name": "and many Exclusive Hidden commands", "value": "_Secret: You can type these commands in uppercase and lowercase letters both_"
+    }]
+}

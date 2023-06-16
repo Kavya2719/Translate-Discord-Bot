@@ -1,0 +1,2 @@
+# Translator Discord Bot
+ 
