@@ -12,6 +12,8 @@
     },{
         "name": "bot, say hii to { name or tag }", "value": "_A Fun Command_"
     },{
+        "name": ".translate {language} {text} OR .t {language} {text}", "value": "_Translate a text to the selected lauguage_"
+    },{
         "name": "@Kavya's Bot", "value": "_help section for this bot_"
     },{
         "name": "and many Exclusive Hidden commands", "value": "_Secret: You can type these commands in uppercase and lowercase letters both_"
