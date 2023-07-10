@@ -28,5 +28,8 @@ Shorten form for the translate command.
 
 For the List of All Commands, see the help section of the bot. It contains all the upgraded info of the bot for that particular version.
 
+# ScreenShots
+![image](https://github.com/Kavya2719/Translator-Discord-Bot/assets/95200924/fd894496-b2ce-4b37-89d4-06358c29355f)
+
 ## 
 ## Many new features and better UI have been getting added in the newer version with time but currently the bot is on the older stable version for better user experience. Thank You !!
