@@ -20,7 +20,7 @@ client.on("messageCreate", async (message) => {
     if(message.author.bot) return;
 
     const msg = message.content.toLowerCase();
-    console.log(msg);
+    // console.log(msg);
 
     const cmd2 = "bot, say hii to"; 
     let part1 = msg.substring(0,15);
@@ -93,6 +93,7 @@ client.on("messageCreate", async (message) => {
       }catch(error){
         const desc = 'Help section for how to translate (to be implemented later)';
         const embed = makeEmbed(desc, message.author);
+        console.log(msg);
         message.channel.send({ embeds: [embed] }); return;
       }
     }
